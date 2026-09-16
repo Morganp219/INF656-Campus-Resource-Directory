@@ -1,0 +1,42 @@
+[
+    {
+    "id": 0,
+    "name": "Tebo Library",
+    "location": "420 Custer Drive Custer, Hall 304, Hays, KS 67601",
+    "description": "Provides research help, books, study spaces, for FHSU Students",
+    "category": "Academics",
+    "contactInfo": "library@fhsu.edu"
+    }, 
+    {
+        "id": 1,
+        "name": "Writing Center",
+        "location": "Top Level (Tebo Library) - 420 Custer Drive Custer, Hall 304, Hays, KS 67601",
+        "description": "One-on-one writing support for students",
+        "category": "Academics",
+        "contactInfo": "WritingCenter@fhsu.edu"
+    }, 
+    {
+        "id": 2,
+        "name": "Carrer Services",
+        "location": "Center for Student Success 142 - 600 Park Street Hays, KS 67601",
+        "description": "Helps students get carrers, prepare resumes, and other job prep items ",
+        "category": "Career Support",
+        "contactInfo": "careers@fhsu.edu"
+    },
+    {
+        "id": 3,
+        "name": "Student Health Center",
+        "location": "Third Floor, Room 301 - 600 Park Street Hays, KS 67601",
+        "description": "Provides medical and wellness services.",
+        "category": "Health & Wellness",
+        "contactInfo": "healthcenter@fhsu.edu"
+    },
+    {
+        "id": 4,
+        "name": "Technology Help Desk",
+        "location": "Tomanek Hall 127",
+        "description": "Provides tech support to all staff & students of FHSU",
+        "category": "Tech Support",
+        "contactInfo": "https://www.fhsu.edu/technology/"
+    }
+]
